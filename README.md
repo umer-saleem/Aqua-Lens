@@ -5,3 +5,4 @@ AquaLens is a flutter-based Android application designed to measure water qualit
 ## **Screenshots**
 Check out the carousel showcasing the app screenshots: 
 https://umer-saleem.github.io/aqua-sense/screenshots.html
+assets/images/Animation.gif
