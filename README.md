@@ -10,8 +10,6 @@ Check out the carousel showcasing the app screenshots:
 
 ## **Technologies**
 - **Flutter**: For cross-platform mobile app development.
-- Dart: The programming language used for Flutter.
-- Firebase: For backend services like authentication, database, and storage (optional).
-- Google Maps API: For location-based data collection.
-- OpenCV: For image processing and analysis (if applicable).
-- GitHub Actions: For CI/CD pipelines.
+- **Dart**: The programming language used for Flutter.
+- **Google Firebase**: For backend services including authentication, database, and firebase storage.
+- **OpenCV**: For image processing and analysis.
