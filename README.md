@@ -9,7 +9,7 @@ Check out the carousel showcasing the app screenshots:
 </div>
 
 ## **Technologies**
-- Flutter: For cross-platform mobile app development.
+- **Flutter**: For cross-platform mobile app development.
 - Dart: The programming language used for Flutter.
 - Firebase: For backend services like authentication, database, and storage (optional).
 - Google Maps API: For location-based data collection.
