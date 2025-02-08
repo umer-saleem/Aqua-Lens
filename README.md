@@ -18,28 +18,28 @@ AquaLens is a flutter-based Android application designed to measure water qualit
       <input type="radio" name="carousel" id="slide8">
       <div class="carousel-items">
         <div class="carousel-item">
-          <img src="assets/images/screen1.png" alt="Screen 1">
+          <img src="assets/images/img1.png" alt="Screen 1">
         </div>
         <div class="carousel-item">
-          <img src="assets/images/screen2.png" alt="Screen 2">
+          <img src="assets/images/img2.png" alt="Screen 2">
         </div>
         <div class="carousel-item">
-          <img src="assets/images/screen3.png" alt="Screen 3">
+          <img src="assets/images/img3.png" alt="Screen 3">
         </div>
         <div class="carousel-item">
-          <img src="assets/images/screen4.png" alt="Screen 4">
+          <img src="assets/images/img4.png" alt="Screen 4">
         </div>
         <div class="carousel-item">
-          <img src="assets/images/screen5.png" alt="Screen 5">
+          <img src="assets/images/img5.png" alt="Screen 5">
         </div>
         <div class="carousel-item">
-          <img src="assets/images/screen6.png" alt="Screen 6">
+          <img src="assets/images/img6.png" alt="Screen 6">
         </div>
         <div class="carousel-item">
-          <img src="assets/images/screen7.png" alt="Screen 7">
+          <img src="assets/images/img7.png" alt="Screen 7">
         </div>
         <div class="carousel-item">
-          <img src="assets/images/screen8.png" alt="Screen 8">
+          <img src="assets/images/img8.png" alt="Screen 8">
         </div>
       </div>
       <div class="carousel-nav">
