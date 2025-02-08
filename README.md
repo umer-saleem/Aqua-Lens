@@ -1,1 +1,1 @@
-# aqua-sense
+# AquaSense - Water Quality Monitoring App
