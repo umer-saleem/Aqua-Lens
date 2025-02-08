@@ -13,19 +13,19 @@ AquaLens is a flutter-based Android application designed to measure water qualit
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
     <div class="numbertext">1 / 3</div>
-    <img src="assets/images/img1.png">
+    <img src="assets/images/img1.png" width="200" style="margin: 10px;>
     <div class="text">Caption Text</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 3</div>
-    <img src="assets/images/img2.png">
+    <img src="assets/images/img2.png" width="200" style="margin: 10px;>
     <div class="text">Caption Two</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">3 / 3</div>
-    <img src="assets/images/img4.png">
+    <img src="assets/images/img4.png" width="200" style="margin: 10px;>
     <div class="text">Caption Three</div>
   </div>
 
