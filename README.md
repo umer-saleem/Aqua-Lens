@@ -46,7 +46,7 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
 **Step 4: Run the Flutter Project**
 1. Connect a Device or Emulator:
    - Connect a physical device via USB or start an emulator.
-   - To start an emulator, run: ```flutter emulators --launch <emulator_name>```. **For ex:** ```flutter emulators --launch Pixel_4_API_30```
+   - To start an emulator, run: ```flutter emulators --launch <emulator_name>```. **Example:** ```flutter emulators --launch Pixel_4_API_30```
 Run the Project:
 
 In the terminal, run the following command to start the app:
