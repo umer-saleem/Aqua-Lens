@@ -169,23 +169,14 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
        cloud_firestore: latest_version
      ```
    - Run `flutter pub get` to install the package.
-
----
-
 ## **Step 8: Deploy Your App**
-
 1. **Build the APK**:
    - Run the following command to build the APK:
      ```bash
      flutter build apk
      ```
-
 2. **Deploy to Google Play Store**:
    - Follow the official Flutter documentation to deploy your app to the Google Play Store.
-
----
-
-This guide provides a comprehensive workflow for setting up Firebase and connecting it to a Flutter application specifically for Android. Let me know if you’d like to add or modify anything! 🚀
 
 ## **Screenshots**
 Check out the carousel showcasing the app screenshots: 
