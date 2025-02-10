@@ -15,6 +15,6 @@ Check out the carousel showcasing the app screenshots:
 - **OpenCV**: For image processing and analysis.
 
 ## **Installation**
-- Clone the repository<br/> `git clone https://github.com/username/repository.git`
+- Clone the repository<br/> `https://github.com/umer-saleem/aqua-sense.git`
 
 ## **Demo**
