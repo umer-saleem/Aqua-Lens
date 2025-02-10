@@ -15,7 +15,7 @@ Check out the carousel showcasing the app screenshots:
 - **OpenCV**: For image processing and analysis.
 
 ## **Installation**
--Clone the repository
+- Clone the repository
 git clone https://github.com/your-username/water_quality_app.git
 
 ## **Demo**
