@@ -2,6 +2,63 @@
 
 AquaLens is a flutter-based Android application designed to measure water quality parameters such as Suspended Particulate Matter (SPM) and Turbidity using citizen science and remote sensing technologies. This app empowers users to contribute to environmental monitoring by collecting and analyzing water quality data.
 
+## **Conceptual Understanding of Water Quality Parameter Measurements**
+
+Before diving into the development of AquaLens, it’s essential to understand the **general principles** behind measuring the two key water quality parameters: **Turbidity** and **Suspended Particulate Matter (SPM)**. These parameters are critical for assessing water quality and are measured using **remote sensing techniques** combined with **image analysis**.
+
+---
+
+### **1. Turbidity**
+**Turbidity** is a measure of the **clarity** or **cloudiness** of water, caused by the presence of suspended particles such as silt, clay, organic matter, and microorganisms. High turbidity levels can indicate pollution or the presence of harmful substances in the water.
+
+#### **How Turbidity is Measured**:
+1. **Light Scattering Principle**:
+   - Turbidity is measured by analyzing how light interacts with suspended particles in the water.
+   - When light passes through water, suspended particles scatter the light in different directions. The more particles present, the more light is scattered, and the higher the turbidity.
+
+2. **Remote Sensing Approach**:
+   - In AquaLens, turbidity is estimated using **remote sensing reflectance** derived from images of the water surface.
+   - A camera captures images of the water, and the app analyzes the light reflected from the water surface.
+   - The reflectance values are then used to calculate turbidity based on empirical relationships derived from scientific studies.
+
+3. **Units of Measurement**:
+   - Turbidity is typically measured in **Nephelometric Turbidity Units (NTU)**.
+
+---
+
+### **2. Suspended Particulate Matter (SPM)**
+**Suspended Particulate Matter (SPM)** refers to the concentration of solid particles suspended in water. These particles can include soil, organic matter, and other debris. High SPM levels can affect water quality, aquatic ecosystems, and human health.
+
+#### **How SPM is Measured**:
+1. **Relationship with Turbidity**:
+   - SPM is closely related to turbidity because both depend on the concentration of suspended particles in the water.
+   - In AquaLens, SPM is calculated indirectly using turbidity measurements.
+2. **Empirical Formula**:
+   - Scientific studies have established a relationship between turbidity and SPM. This relationship is used to estimate SPM from turbidity values.
+   - The formula used in AquaLens is:
+     \[
+     \text{SPM} = 10^{(1.02 \times \log_{10}(\text{Turbidity}) - 0.04)}
+     \]
+   - This formula converts turbidity (in NTU) to SPM (in mg/L).
+3. **Units of Measurement**:
+   - SPM is typically measured in **milligrams per liter (mg/L)**.
+### **General Workflow in AquaLens**
+1. **Image Capture**:
+   - The app captures three images:
+     - **Water Image**: To measure light reflected from the water surface.
+     - **Gray Card Image**: To measure incident light (used as a reference).
+     - **Sky Image**: To correct for light reflected from the sky.
+2. **Image Analysis**:
+   - The app analyzes the pixel values of the images to calculate **remote sensing reflectance**.
+   - Reflectance values are used to estimate turbidity and SPM.
+3. **Display Results**:
+   - The calculated values for turbidity and SPM are displayed in the app, providing users with real-time water quality data.
+
+### **Why These Measurements Matter**
+- **Environmental Monitoring**: Turbidity and SPM are key indicators of water quality and can help identify pollution sources.
+- **Public Health**: High turbidity and SPM levels can affect the safety of drinking water and aquatic ecosystems.
+- **Citizen Science**: AquaLens empowers users to contribute to environmental monitoring by collecting and sharing water quality data.
+
 ## Developing a Flutter Project Using Visual Studio Code
 This guide will walk you through the steps to set up, develop, and run a Flutter project using Visual Studio Code (VS Code). Follow these steps to get started:
 
