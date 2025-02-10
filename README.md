@@ -49,7 +49,7 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
    - To start an emulator, run: ```flutter emulators --launch <emulator_name>```. **Example:** ```flutter emulators --launch Pixel_4_API_30```
 2. Run the Project:
    - In the terminal, run the following command to start the app:<br/> ```flutter run```
-   - Alternatively, press F5 in VS Code to run the project in debug mode.
+   - Alternatively, press ```F5``` in VS Code to run the project in debug mode.
   
 **Step 5: Develop Your Flutter App**
 1. Edit Code:
