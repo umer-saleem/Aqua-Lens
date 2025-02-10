@@ -67,7 +67,7 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
    - Write unit and widget tests in the test directory.
    - Run tests using: <br/> ```flutter test```
 
-**Setting Up Firebase for a Flutter Application (Android Only)**
+## **Setting Up Firebase for a Flutter Application (Android Only)**
 
 ## **Step 1: Create a Firebase Project**
 
