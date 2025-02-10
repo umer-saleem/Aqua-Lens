@@ -29,6 +29,7 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
    - Search for and install the following extensions:
      * Flutter (by Dart Code)
      * Dart (by Dart Code)
+       
 **Step 3: Create a New Flutter Project**
 1. **Open VS Code:**
    - Launch Visual Studio Code.
