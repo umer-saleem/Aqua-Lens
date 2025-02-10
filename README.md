@@ -188,3 +188,4 @@ Check out the carousel showcasing the app screenshots:
 - **OpenCV**: For image processing and analysis.
 
 ## **Demo**
+(./demo.mp4)
