@@ -151,9 +151,7 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
      ```
 2. **Run the App**:
    - Check the console output to ensure Firebase is initialized successfully.
-   
 ## **Step 7: Add Additional Firebase Services (Optional)**
-
 1. **Add Firebase Authentication**:
    - Add the `firebase_auth` package to your `pubspec.yaml` file:
      ```yaml
@@ -161,7 +159,6 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
        firebase_auth: latest_version
      ```
    - Run `flutter pub get` to install the package.
-
 2. **Add Firebase Firestore**:
    - Add the `cloud_firestore` package to your `pubspec.yaml` file:
      ```yaml
