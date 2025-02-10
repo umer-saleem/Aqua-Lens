@@ -50,6 +50,14 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
 2. Run the Project:
    - In the terminal, run the following command to start the app:<br/> ```flutter run```
    - Alternatively, press F5 in VS Code to run the project in debug mode.
+  
+**Step 5: Develop Your Flutter App**
+1. Edit Code:
+   - Open the lib/main.dart file in VS Code.
+   - Modify the code to build your app.
+2. Hot Reload:
+   - Save your changes (```Ctrl+S``` or ```Cmd+S``` on macOS).
+   - Use Hot Reload (press ```r``` in the terminal or click the 🔥 icon in VS Code) to see changes instantly.
 
 ## **Screenshots**
 Check out the carousel showcasing the app screenshots: 
