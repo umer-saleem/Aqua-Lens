@@ -24,15 +24,11 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
 1. **Download and Install VS Code:**
    - Visit the official VS Code website: https://code.visualstudio.com.
    - Download and install VS Code for your operating system.
-2. Install Flutter and Dart Extensions:
-
-Open VS Code and go to the Extensions Marketplace (Ctrl+Shift+X or Cmd+Shift+X on macOS).
-
-Search for and install the following extensions:
-
-Flutter (by Dart Code)
-
-Dart (by Dart Code)
+2. **Install Flutter and Dart Extensions:**
+   - Open VS Code and go to the Extensions Marketplace (Ctrl+Shift+X or Cmd+Shift+X on macOS).
+   - Search for and install the following extensions:
+     * Flutter (by Dart Code)
+     * Dart (by Dart Code)
 
 ## **Screenshots**
 Check out the carousel showcasing the app screenshots: 
