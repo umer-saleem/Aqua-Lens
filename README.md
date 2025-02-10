@@ -16,7 +16,6 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
    - Example (for macOS/Linux):```export PATH="$PATH:`pwd`/flutter/bin"```
    - Example (for Windows): Open Environment Variables and add ```C:\flutter\bin``` to the PATH.
 
-Example (for macOS/Linux):
 ## **Screenshots**
 Check out the carousel showcasing the app screenshots: 
 <div align="center">
