@@ -69,25 +69,18 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
 
 ## **Setting Up Firebase for a Flutter Application (Android Only)**
 
-## **Step 1: Create a Firebase Project**
-
+**Step 1: Create a Firebase Project**
 1. **Go to Firebase Console**:
    - Visit the [Firebase Console](https://console.firebase.google.com/).
    - Click on **"Add Project"** and follow the steps to create a new Firebase project.
-
 2. **Add Firebase to Your Android App**:
    - In the Firebase Console, click on the **Android icon** to add an Android app to your project.
    - Enter your app's package name (e.g., `com.example.my_flutter_app`).
    - Download the `google-services.json` file.
-
----
-
 ## **Step 2: Add Firebase to Your Flutter Project**
-
 1. **Place `google-services.json` in Your Project**:
    - Copy the downloaded `google-services.json` file.
    - Paste it into the `android/app` directory of your Flutter project.
-
 2. **Update `android/build.gradle`**:
    - Open the `android/build.gradle` file.
    - Add the following lines inside the `buildscript` block:
@@ -152,9 +145,6 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
      ```bash
      flutter run
      ```
-
----
-
 ## **Step 6: Verify Firebase Integration**
 
 1. **Check Firebase Initialization**:
@@ -167,7 +157,6 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
        runApp(MyApp());
      }
      ```
-
 2. **Run the App**:
    - Check the console output to ensure Firebase is initialized successfully.
 
