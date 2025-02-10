@@ -9,10 +9,14 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
 1. Download Flutter SDK:
    - Visit the official Flutter website: https://flutter.dev.
    - Download the Flutter SDK for your operating system (Windows, macOS, or Linux).
-
 2. Extract the Flutter SDK:
    - Extract the downloaded Flutter SDK to a location on your system (e.g., C:\flutter on Windows or /Users/your-username/flutter on macOS/Linux).
+3. Add Flutter to PATH:
+   - Add the Flutter SDK's bin directory to your system's PATH environment variable.
+   - Example (for macOS/Linux):
+   <br/> export PATH="$PATH:`pwd`/flutter/bin"
 
+Example (for macOS/Linux):
 ## **Screenshots**
 Check out the carousel showcasing the app screenshots: 
 <div align="center">
