@@ -13,7 +13,8 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
    - Extract the downloaded Flutter SDK to a location on your system (e.g., C:\flutter on Windows or /Users/your-username/flutter on macOS/Linux).
 3. **Add Flutter to PATH:**
    - Add the Flutter SDK's bin directory to your system's PATH environment variable.
-   - Example (for macOS/Linux):```export PATH="$PATH:`pwd`/flutter/bin"```
+   - Example (for macOS/Linux):<br/>
+     ```export PATH="$PATH:`pwd`/flutter/bin"```
    - Example (for Windows): Open Environment Variables and add ```C:\flutter\bin``` to the PATH.
 4. Verify Installation:
    - Run the following command to verify the installation:<br/>
