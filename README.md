@@ -16,7 +16,7 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
    - Example (for macOS/Linux):<br/>
      ```export PATH="$PATH:`pwd`/flutter/bin"```
    - Example (for Windows): Open Environment Variables and add ```C:\flutter\bin``` to the PATH.
-**4. Verify Installation:**
+4. **Verify Installation:**
    - Run the following command to verify the installation:<br/>
      ```flutter doctor```
 
@@ -44,10 +44,10 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
    - Navigate to the project directory: ```cd my_flutter_app```
   
 **Step 4: Run the Flutter Project**
-1. Connect a Device or Emulator:
+1. **Connect a Device or Emulator:**
    - Connect a physical device via USB or start an emulator.
    - To start an emulator, run: ```flutter emulators --launch <emulator_name>```. **Example:** ```flutter emulators --launch Pixel_4_API_30```
-2. Run the Project:
+2. **Run the Project:**
    - In the terminal, run the following command to start the app:<br/> ```flutter run```
    - Alternatively, press ```F5``` in VS Code to run the project in debug mode.
   
@@ -99,18 +99,13 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
          }
      }
      ```
-
 3. **Update `android/app/build.gradle`**:
    - Open the `android/app/build.gradle` file.
    - Add the following line at the bottom of the file:
      ```gradle
      apply plugin: 'com.google.gms.google-services'
      ```
-
----
-
 ## **Step 3: Add Firebase Dependencies to Flutter**
-
 1. **Add Firebase Packages**:
    - Open the `pubspec.yaml` file in your Flutter project.
    - Add the following dependencies:
@@ -121,15 +116,11 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
        firebase_core: latest_version
      ```
    - Replace `latest_version` with the latest version of the `firebase_core` package (check [pub.dev](https://pub.dev) for the latest version).
-
 2. **Install Dependencies**:
    - Run the following command in the terminal to install the dependencies:
      ```bash
      flutter pub get
      ```
-
----
-
 ## **Step 4: Initialize Firebase in Your Flutter App**
 
 1. **Import Firebase Packages**:
