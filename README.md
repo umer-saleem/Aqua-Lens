@@ -41,7 +41,7 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
    - Select a location to save the project.
 3. **Navigate to the Project Directory:**
    - Open the terminal in VS Code (Ctrl+`` or Cmd+`` on macOS).
-   - Navigate to the project directory:```cd my_flutter_app```
+   - Navigate to the project directory: ```cd my_flutter_app```
 
 ## **Screenshots**
 Check out the carousel showcasing the app screenshots: 
