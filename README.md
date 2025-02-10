@@ -34,8 +34,8 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
 1. **Open VS Code:**
    - Launch Visual Studio Code.
 2. **Create a New Flutter Project:**
-   - Open the Command Palette (Ctrl+Shift+P or Cmd+Shift+P on macOS).
-   - Type and select "Flutter: New Project".
+   - Open the Command Palette (```Ctrl+Shift+P``` or ```Cmd+Shift+P``` on macOS).
+   - Type and select "Flutter: **New Project**.
    - Choose Application as the project type.
    - Enter a project name (e.g., my_flutter_app).
    - Select a location to save the project.
