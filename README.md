@@ -115,14 +115,12 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
      flutter pub get
      ```
 ## **Step 4: Initialize Firebase in Your Flutter App**
-
 1. **Import Firebase Packages**:
    - Open the `lib/main.dart` file.
    - Add the following import at the top:
      ```dart
      import 'package:firebase_core/firebase_core.dart';
      ```
-
 2. **Initialize Firebase**:
    - Modify the `main` function to initialize Firebase:
      ```dart
@@ -132,21 +130,15 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
        runApp(MyApp());
      }
      ```
-
----
-
 ## **Step 5: Run Your Flutter App**
-
 1. **Connect a Device or Emulator**:
    - Connect a physical Android device or start an Android emulator.
-
 2. **Run the App**:
    - In the terminal, run the following command:
      ```bash
      flutter run
      ```
 ## **Step 6: Verify Firebase Integration**
-
 1. **Check Firebase Initialization**:
    - Add a print statement in the `main` function to verify Firebase initialization:
      ```dart
@@ -159,9 +151,7 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
      ```
 2. **Run the App**:
    - Check the console output to ensure Firebase is initialized successfully.
-
----
-
+   
 ## **Step 7: Add Additional Firebase Services (Optional)**
 
 1. **Add Firebase Authentication**:
