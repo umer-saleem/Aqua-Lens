@@ -7,8 +7,8 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
 
 **Step 1:** Install Flutter and Dart SDK
 1. Download Flutter SDK:
-     ● Visit the official Flutter website: https://flutter.dev.
-     ● Download the Flutter SDK for your operating system (Windows, macOS, or Linux).
+   1. Visit the official Flutter website: https://flutter.dev.
+   2. Download the Flutter SDK for your operating system (Windows, macOS, or Linux).
 
 Extract the Flutter SDK:
 
