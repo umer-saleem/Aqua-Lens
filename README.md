@@ -10,7 +10,7 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
    - Visit the official Flutter website: https://flutter.dev.
    - Download the Flutter SDK for your operating system (Windows, macOS, or Linux).
 2. **Extract the Flutter SDK:**
-   - Extract the downloaded Flutter SDK to a location on your system (e.g., C:\flutter on Windows or /Users/your-username/flutter on macOS/Linux).
+   - Extract the downloaded Flutter SDK to a location on your system (e.g., C:\flutter on Windows or /Users/youra-username/flutter on macOS/Linux).
 3. **Add Flutter to PATH:**
    - Add the Flutter SDK's bin directory to your system's PATH environment variable.
    - Example (for macOS/Linux):<br/>
@@ -175,17 +175,17 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
 2. **Deploy to Google Play Store**:
    - Follow the official Flutter documentation to deploy your app to the Google Play Store.
 
-## **Screenshots**
-Check out the carousel showcasing the app screenshots: 
+## **App Demo & Screenshots**
+Below are some screenshots showcasing the key features and user interface of AquaLens:
 <div align="center">
   <img src="assets/images/Animation.gif" alt="App Demo">
 </div>
+
+## **Demo Video**
+[Watch the demo video here](./Demo.mp4)
 
 ## **Technologies**
 - **Flutter**: For cross-platform mobile app development.
 - **Dart**: The programming language used for Flutter.
 - **Google Firebase**: For backend services including authentication, database, and firebase storage.
 - **OpenCV**: For image processing and analysis.
-
-## **Demo**
-[Watch the demo video here](./Demo.mp4)
