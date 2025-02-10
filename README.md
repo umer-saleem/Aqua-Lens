@@ -16,6 +16,6 @@ Check out the carousel showcasing the app screenshots:
 
 ## **Installation**
 - Clone the repository
-git clone https://github.com/your-username/water_quality_app.git
+<br/> git clone https://github.com/your-username/water_quality_app.git
 
 ## **Demo**
