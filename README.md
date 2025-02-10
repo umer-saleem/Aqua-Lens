@@ -59,6 +59,15 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
    - Save your changes (```Ctrl+S``` or ```Cmd+S``` on macOS).
    - Use Hot Reload (press ```r``` in the terminal or click the 🔥 icon in VS Code) to see changes instantly.
 
+**Step 6: Debugging and Testing**
+1. Debugging:
+   - Set breakpoints in your code by clicking the left gutter in VS Code.
+   - Press ```F5``` to start debugging.
+2. Testing:
+   - Write unit and widget tests in the test directory.
+   - Run tests using: <br/> ```flutter test```
+
+
 ## **Screenshots**
 Check out the carousel showcasing the app screenshots: 
 <div align="center">
