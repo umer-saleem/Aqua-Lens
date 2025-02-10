@@ -176,12 +176,13 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
    - Follow the official Flutter documentation to deploy your app to the Google Play Store.
 
 ## **App Demo & Screenshots**
+1. **Screenshots**
 Below are some screenshots showcasing the key features and user interface of AquaLens:
 <div align="center">
   <img src="assets/images/Animation.gif" alt="App Demo">
 </div>
 
-## **Demo Video**
+2. **Demo Video**
 [Watch the demo video here](./Demo.mp4)
 
 ## **Technologies**
