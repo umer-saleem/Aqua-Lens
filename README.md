@@ -1,12 +1,8 @@
 # AquaLens - Water Quality Monitoring App
-
 AquaLens is a flutter-based Android application designed to measure water quality parameters such as Suspended Particulate Matter (SPM) and Turbidity using citizen science and remote sensing technologies. This app empowers users to contribute to environmental monitoring by collecting and analyzing water quality data.
 
 ## **Conceptual Understanding of Water Quality Parameter Measurements**
-
 Before diving into the development of AquaLens, it’s essential to understand the **general principles** behind measuring the two key water quality parameters: **Turbidity** and **Suspended Particulate Matter (SPM)**. These parameters are critical for assessing water quality and are measured using **remote sensing techniques** combined with **image analysis**.
-
----
 
 ### **1. Turbidity**
 **Turbidity** is a measure of the **clarity** or **cloudiness** of water, caused by the presence of suspended particles such as silt, clay, organic matter, and microorganisms. High turbidity levels can indicate pollution or the presence of harmful substances in the water.
@@ -15,16 +11,12 @@ Before diving into the development of AquaLens, it’s essential to understand t
 1. **Light Scattering Principle**:
    - Turbidity is measured by analyzing how light interacts with suspended particles in the water.
    - When light passes through water, suspended particles scatter the light in different directions. The more particles present, the more light is scattered, and the higher the turbidity.
-
 2. **Remote Sensing Approach**:
    - In AquaLens, turbidity is estimated using **remote sensing reflectance** derived from images of the water surface.
    - A camera captures images of the water, and the app analyzes the light reflected from the water surface.
    - The reflectance values are then used to calculate turbidity based on empirical relationships derived from scientific studies.
-
 3. **Units of Measurement**:
    - Turbidity is typically measured in **Nephelometric Turbidity Units (NTU)**.
-
----
 
 ### **2. Suspended Particulate Matter (SPM)**
 **Suspended Particulate Matter (SPM)** refers to the concentration of solid particles suspended in water. These particles can include soil, organic matter, and other debris. High SPM levels can affect water quality, aquatic ecosystems, and human health.
