@@ -6,9 +6,9 @@ AquaLens is a flutter-based Android application designed to measure water qualit
 This guide will walk you through the steps to set up, develop, and run a Flutter project using Visual Studio Code (VS Code). Follow these steps to get started:
 
 **Step 1:** Install Flutter and Dart SDK
-1. Download Flutter SDK:
-   1. Visit the official Flutter website: https://flutter.dev.
-   2. Download the Flutter SDK for your operating system (Windows, macOS, or Linux).
+*. Download Flutter SDK:
+   - Visit the official Flutter website: https://flutter.dev.
+   - Download the Flutter SDK for your operating system (Windows, macOS, or Linux).
 
 Extract the Flutter SDK:
 
