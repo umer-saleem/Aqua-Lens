@@ -187,7 +187,4 @@ Check out the carousel showcasing the app screenshots:
 - **Google Firebase**: For backend services including authentication, database, and firebase storage.
 - **OpenCV**: For image processing and analysis.
 
-## **Installation**
-- Clone the repository<br/> `https://github.com/umer-saleem/aqua-sense.git`
-
 ## **Demo**
