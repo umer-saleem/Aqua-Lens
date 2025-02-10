@@ -52,18 +52,18 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
    - Alternatively, press ```F5``` in VS Code to run the project in debug mode.
   
 **Step 5: Develop Your Flutter App**
-1. Edit Code:
+**1. Edit Code:**
    - Open the lib/main.dart file in VS Code.
    - Modify the code to build your app.
-2. Hot Reload:
+**2. Hot Reload:**
    - Save your changes (```Ctrl+S``` or ```Cmd+S``` on macOS).
    - Use Hot Reload (press ```r``` in the terminal or click the 🔥 icon in VS Code) to see changes instantly.
 
 **Step 6: Debugging and Testing**
-1. Debugging:
+1. **Debugging:**
    - Set breakpoints in your code by clicking the left gutter in VS Code.
    - Press ```F5``` to start debugging.
-2. Testing:
+2. **Testing:**
    - Write unit and widget tests in the test directory.
    - Run tests using: <br/> ```flutter test```
 
