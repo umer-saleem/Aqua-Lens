@@ -14,7 +14,7 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
 3. Add Flutter to PATH:
    - Add the Flutter SDK's bin directory to your system's PATH environment variable.
    - Example (for macOS/Linux):
-   <br/> export PATH="$PATH:`pwd`/flutter/bin"
+   ```export PATH="$PATH:`pwd`/flutter/bin"```
 
 Example (for macOS/Linux):
 ## **Screenshots**
