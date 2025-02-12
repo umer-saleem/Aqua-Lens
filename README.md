@@ -34,7 +34,7 @@ Before diving into the development of AquaLens, it’s essential to understand t
    - This formula converts turbidity (in NTU) to SPM (in mg/L).
 3. **Units of Measurement**:
    - SPM is typically measured in **milligrams per liter (mg/L)**.
-### **3. General Workflow in AquaLens**
+### **General Workflow in AquaLens**
 1. **Image Capture**:
    - The app captures three images:
      - **Water Image**: To measure light reflected from the water surface.
