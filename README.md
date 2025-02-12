@@ -21,7 +21,7 @@ Before diving into the development of AquaLens, it’s essential to understand t
 ### **2. Suspended Particulate Matter (SPM)**
 **Suspended Particulate Matter (SPM)** refers to the concentration of solid particles suspended in water. These particles can include soil, organic matter, and other debris. High SPM levels can affect water quality, aquatic ecosystems, and human health.
 
-#### **How SPM is Measured**:
+#### **How SPM is Measured**
 1. **Relationship with Turbidity**:
    - SPM is closely related to turbidity because both depend on the concentration of suspended particles in the water.
    - In AquaLens, SPM is calculated indirectly using turbidity measurements.
@@ -34,7 +34,7 @@ Before diving into the development of AquaLens, it’s essential to understand t
    - This formula converts turbidity (in NTU) to SPM (in mg/L).
 3. **Units of Measurement**:
    - SPM is typically measured in **milligrams per liter (mg/L)**.
-#### **General Workflow in AquaLens**:
+### **3. General Workflow in AquaLens**
 1. **Image Capture**:
    - The app captures three images:
      - **Water Image**: To measure light reflected from the water surface.
