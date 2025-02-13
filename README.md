@@ -126,6 +126,7 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
    - In the Firebase Console, click on the **Android icon** to add an Android app to your project.
    - Enter your app's package name (e.g., `com.example.my_flutter_app`).
    - Download the `google-services.json` file.
+     
 **Step 2: Add Firebase to Your Flutter Project**
 1. **Place `google-services.json` in Your Project**:
    - Copy the downloaded `google-services.json` file.
