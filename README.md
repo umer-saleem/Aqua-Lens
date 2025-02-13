@@ -182,7 +182,8 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
        runApp(MyApp());
      }
      ```
-## **Step 5: Run Your Flutter App**
+
+**Step 5: Run Your Flutter App**
 1. **Connect a Device or Emulator**:
    - Connect a physical Android device or start an Android emulator.
 2. **Run the App**:
@@ -190,7 +191,8 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
      ```bash
      flutter run
      ```
-## **Step 6: Verify Firebase Integration**
+
+**Step 6: Verify Firebase Integration**
 1. **Check Firebase Initialization**:
    - Add a print statement in the `main` function to verify Firebase initialization:
      ```dart
@@ -203,7 +205,8 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
      ```
 2. **Run the App**:
    - Check the console output to ensure Firebase is initialized successfully.
-## **Step 7: Add Additional Firebase Services (Optional)**
+
+**Step 7: Add Additional Firebase Services (Optional)**
 1. **Add Firebase Authentication**:
    - Add the `firebase_auth` package to your `pubspec.yaml` file:
      ```yaml
@@ -218,7 +221,8 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
        cloud_firestore: latest_version
      ```
    - Run `flutter pub get` to install the package.
-## **Step 8: Deploy Your App**
+
+**Step 8: Deploy Your App**
 1. **Build the APK**:
    - Run the following command to build the APK:
      ```bash
