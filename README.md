@@ -25,13 +25,6 @@ Before diving into the development of AquaLens, it’s essential to understand t
 1. **Relationship with Turbidity**:
    - SPM is closely related to turbidity because both depend on the concentration of suspended particles in the water.
    - In AquaLens, SPM is calculated indirectly using turbidity measurements.
-2. **Empirical Formula**:
-   - Scientific studies have established a relationship between turbidity and SPM. This relationship is used to estimate SPM from turbidity values.
-   - The formula used in AquaLens is:
-     \[
-     \text{SPM} = 10^{(1.02 \times \log_{10}(\text{Turbidity}) - 0.04)}
-     \]
-   - This formula converts turbidity (in NTU) to SPM (in mg/L).
 3. **Units of Measurement**:
    - SPM is typically measured in **milligrams per liter (mg/L)**.
 ### **3. General Workflow in AquaLens**
