@@ -148,6 +148,7 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
      ```gradle
      apply plugin: 'com.google.gms.google-services'
      ```
+     
 **Step 3: Add Firebase Dependencies to Flutter**
 1. **Add Firebase Packages**:
    - Open the `pubspec.yaml` file in your Flutter project.
