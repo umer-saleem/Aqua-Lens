@@ -165,7 +165,8 @@ This guide will walk you through the steps to set up, develop, and run a Flutter
      ```bash
      flutter pub get
      ```
-## **Step 4: Initialize Firebase in Your Flutter App**
+
+**Step 4: Initialize Firebase in Your Flutter App**
 1. **Import Firebase Packages**:
    - Open the `lib/main.dart` file.
    - Add the following import at the top:
