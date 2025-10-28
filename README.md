@@ -1,5 +1,5 @@
 # AquaLens - Water Quality Monitoring App
-AquaLens is a flutter-based mbile application designed to measure water quality parameters such as Suspended Particulate Matter (SPM) and Turbidity using citizen science and remote sensing technologies. This app empowers users to contribute to environmental monitoring by collecting and analyzing water quality data.
+AquaLens is a flutter-based mobile application designed to measure water quality parameters such as Suspended Particulate Matter (SPM) and Turbidity using citizen science and remote sensing technologies. This app empowers users to contribute to environmental monitoring by collecting and analyzing water quality data.
 
 ## **Conceptual Understanding of Water Quality Parameter Measurements**
 Before diving into the development of AquaLens, it’s essential to understand the **general principles** behind measuring the two key water quality parameters: **Turbidity** and **Suspended Particulate Matter (SPM)**. These parameters are critical for assessing water quality and are measured using **remote sensing techniques** combined with **image analysis**.
